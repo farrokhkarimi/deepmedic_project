@@ -19,6 +19,7 @@ sudo apt install libgdcm-tools
 ```
 
 **- Windows:**
+
 Download and install GDCM from [http://gdcm.sourceforge.net/](http://gdcm.sourceforge.net/) or [https://sourceforge.net/projects/gdcm/](https://sourceforge.net/projects/gdcm/)
 
 **Note:** Install the CUDA and cuDNN requirements if you want to use the GPU.
