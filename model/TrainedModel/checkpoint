@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\FDK\\deepmedic\\examples\\output/saved_models//trainSessionDm//deepMedic.trainSessionDm.final.2020-06-18.20.55.20.742338.model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\FDK\\deepmedic\\examples\\output/saved_models//trainSessionDm//deepMedic.trainSessionDm.2020-06-18.13.23.07.315141.model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\FDK\\deepmedic\\examples\\output/saved_models//trainSessionDm//deepMedic.trainSessionDm.2020-06-18.14.18.12.098073.model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\FDK\\deepmedic\\examples\\output/saved_models//trainSessionDm//deepMedic.trainSessionDm.2020-06-18.15.13.13.318183.model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\FDK\\deepmedic\\examples\\output/saved_models//trainSessionDm//deepMedic.trainSessionDm.2020-06-18.20.55.03.962385.model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\FDK\\deepmedic\\examples\\output/saved_models//trainSessionDm//deepMedic.trainSessionDm.final.2020-06-18.20.55.20.742338.model.ckpt"

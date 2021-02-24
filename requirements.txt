@@ -1,0 +1,5 @@
+# pythonic requirements
+
+flask
+dicom2nifti
+tensorflow-cpu
