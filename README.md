@@ -51,7 +51,7 @@ You should define the project output path and data path in the project_runner or
 <p align="center"><img src="https://github.com/farrokhkarimi/deepmedic_project/blob/main/documentation/result.png" /></p>
 
 # Author
-[Farrokh Karimi](farrokhkarimi.github.io)
+[Farrokh Karimi](http://farrokhkarimi.github.io/)
 
 # Acknowledgments
 It should be noted that this project was done for [MarcoPax](https://www.marcopacs.com/en/) company.
