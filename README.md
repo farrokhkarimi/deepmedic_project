@@ -50,8 +50,8 @@ You should define the project output path and data path in the project_runner or
 # Result
 <p align="center"><img src="https://github.com/farrokhkarimi/deepmedic_project/blob/main/documentation/result.png" /></p>
 
-# Author
-[Farrokh Karimi](http://farrokhkarimi.github.io/)
-
 # Acknowledgments
 It should be noted that this project was done for [MarcoPax](https://www.marcopacs.com/en/) company.
+
+# Author
+**Developed** by [Farrokh Karimi](https://farrokhkarimi.github.io/)
